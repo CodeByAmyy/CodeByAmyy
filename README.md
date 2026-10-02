@@ -82,7 +82,7 @@ Web application developed for managing and organizing public procurement process
 
 `JavaScript` `Web Development`
 
-🔗 [View Repository](https://github.com/CodeByAmy/licitaciones-csc)
+🔗 [View Repository](https://github.com/CodeByAmyy/licitaciones-csc)
 
 ---
 
