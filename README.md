@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi! I'm **Amy Raquel Him**, a Computer Systems Engineering from Panama 🇵🇦 passionate about technology, software development and creating innovative solutions.
+Hi! I'm **Amy Raquel Him**, a Computer Systems Engineering from Panama passionate about technology, software development and creating innovative solutions.
 
 I'm especially interested in **Python, Artificial Intelligence, Web Development, Databases and Game Development**.
 
@@ -129,28 +129,44 @@ INADEH
 
 ## 🌱 Currently Learning
 
-```text
-🐍 Python
-🤖 Artificial Intelligence
-🌐 Web Development
-🗄️ Databases & Backend Development
-🎮 Game Development
+🐍 Python  
+🤖 Artificial Intelligence  
+🌐 Web Development  
+🗄️ Databases & Backend Development  
+🎮 Game Development  
 
+---
 
+## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeByAmy&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAmy&layout=compact&theme=tokyonight&hide_border=true" height="170"> </div>
-💫 Let's Connect
 <div align="center">
 
-💻 GitHub
-github.com/CodeByAmy
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByAmy&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
-🇵🇦 Panama
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAmy&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
+
+---
+
+## 💫 Let's Connect
+
 <div align="center">
-✦ Thanks for visiting my profile! ✦
+
+💻 **GitHub**
+
+[github.com/CodeByAmy](https://github.com/CodeByAmy)
+
+🇵🇦 **Panama**
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Thanks for visiting my profile! ✦
 
 ⭐ Feel free to explore my repositories and projects.
 
-</div> ```
+</div>
