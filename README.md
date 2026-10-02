@@ -6,7 +6,6 @@
 
 **Python • Artificial Intelligence • Web Development • Game Development**
 
-🇵🇦 Panama
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi! I'm **Amy Raquel Him**, a Computer Systems Engineering from Panama passionate about technology, software development and creating innovative solutions.
+Hi! I'm **Amy Raquel Him**, a Computer Systems Engineering from Panama, passionate about technology, software development and creating innovative solutions.
 
 I'm especially interested in **Python, Artificial Intelligence, Web Development, Databases and Game Development**.
 
@@ -134,18 +133,6 @@ INADEH
 🌐 Web Development  
 🗄️ Databases & Backend Development  
 🎮 Game Development  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeByAmy&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAmy&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
 
 ---
 
