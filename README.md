@@ -94,7 +94,7 @@ Artificial intelligence and data project developed during the **Samsung Innovati
 
 `Python` `Artificial Intelligence`
 
-🔗 [View Repository](https://github.com/CodeByAmy/MentalHealthMonitor-SIC)
+🔗 [View Repository](https://github.com/CodeByAmyy/MentalHealthMonitor-SIC)
 
 ---
 
@@ -102,7 +102,7 @@ Artificial intelligence and data project developed during the **Samsung Innovati
 
 🎓 **Ingeniería en Sistemas y Computación**
 
-Universidad Tecnológica de Panamá 🇵🇦
+Universidad Tecnológica de Panamá
 
 ---
 
@@ -144,7 +144,6 @@ INADEH
 
 [github.com/CodeByAmy](https://github.com/CodeByAmy)
 
-🇵🇦 **Panama**
 
 </div>
 
