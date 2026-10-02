@@ -66,9 +66,6 @@ I enjoy learning new technologies and turning ideas into functional projects. �
 
 A geospatial system for tracking aircraft in real time using external aviation data and spatial technologies.
 
-**Technologies:**
-
-`Python` `OpenSky API` `FastAPI` `PostgreSQL` `PostGIS` `Streamlit`
 
 🔗 [✈️ Explore Project](https://github.com/CodeByAmyy/vuelos-geoespacial)
 
@@ -78,9 +75,6 @@ A geospatial system for tracking aircraft in real time using external aviation d
 
 Web application developed for managing and organizing public procurement processes.
 
-**Technologies:**
-
-`JavaScript` `Web Development`
 
 🔗 [View Repository](https://github.com/CodeByAmyy/licitaciones-csc)
 
