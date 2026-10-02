@@ -70,7 +70,7 @@ A geospatial system for tracking aircraft in real time using external aviation d
 
 `Python` `OpenSky API` `FastAPI` `PostgreSQL` `PostGIS` `Streamlit`
 
-🔗 [✈️ Explore Project](https://github.com/CodeByAmy/vuelos-geoespacial)
+🔗 [✈️ Explore Project](https://github.com/CodeByAmyy/vuelos-geoespacial)
 
 ---
 
